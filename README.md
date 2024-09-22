@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:danielle.goes_dba@hotmail.com)
 
 
-##🔭 Habilidades:
+## 🔭 Habilidades:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
