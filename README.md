@@ -1,4 +1,5 @@
-## Olá! 👋
+## Olá! 👋 Eu sou Danielle!
+#### Uma Dba que iniciou sua jornada na programação em python e está apaixonada pelo mundo do desenvolvimento!
 
 <!--
 **Dani-dba/Dani-dba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +19,7 @@ Here are some ideas to get you started:
 
 
 
-## Eu sou Danielle!
-#### Uma Dba que iniciou sua jornada na programação em python e está apaixonada pelo mundo do desenvolvimento!
+
 
 ## 📫 Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielle-goes/) 
